@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SP2707
 - 👀 I’m interested in building projects in C language, Python, Java, HTML
 - 🌱 I’m currently learning C
--     I know HTML, CSS
 - 💞️ I’m looking to collaborate on mini projects in C
 - I'm looking for collaboration on the collection of all programs required for CSE branch for colleges under VTU
 - 📫 How to reach me?
