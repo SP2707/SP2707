@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SP2707
-- 👀 I’m interested in building projects in C language, Python, Java, HTML
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on mini projects in C
-- I'm looking for collaboration on the collection of all programs required for CSE branch for colleges under VTU
+- 👀 I’m interested in building projects in C language, Python, HTML
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects in Python
+- 💻 Currently working on projects such as P2P chat systems and Predictions using AIML based on Python 
 - 📫 How to reach me?
 - Email: suhrid2707@gmail.com
 <!---
